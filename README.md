@@ -7,11 +7,11 @@
 * Высокая скорость поиска
 * Низкая цена
 
-###JavaScript:
+####JavaScript:
 ```javaScript
 <script src="https://localhost/neuro.sdk.min.js"></script>
 ```
-###Java (Maven):
+####Java (Maven):
 ```Java
 <dependency>
   <groupId>neuro</groupId>
@@ -19,7 +19,7 @@
   <version>1.0.0</version>
 </dependency>
 ```
-###iOS (добавьте код в ваш Podfile):
+####iOS (добавьте код в ваш Podfile):
 ```IOS
 platform :ios, '8.0'
 pod "neuro-ios-sdk"
